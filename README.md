@@ -10,17 +10,17 @@ A procedurally generated pipe-connection puzzle game built with **Cocos Creator*
 
 | Start Scene | Level Select Scene | Game Scene |
 |:---:|:---:|:---:|
-| _add screenshot_ | _add screenshot_ | _add screenshot_ |
+| ![Start Scene](screenshots/start-scene.png) | ![Level Select Scene](screenshots/Level_select_scene.png) | ![Game Scene](screenshots/Game_scene.png) |
 
 ### Grid Types
 
 | 3x3 | 4x4 |
 |:---:|:---:|
-| _add screenshot_ | _add screenshot_ |
+| ![3x3 Grid](screenshots/3X3_grid.png) | ![4x4 Grid](screenshots/4X4_grid.png) |
 
 | 5x5 | 6x6 |
 |:---:|:---:|
-| _add screenshot_ | _add screenshot_ |
+| ![5x5 Grid](screenshots/5X5_grid.png) | ![6x6 Grid](screenshots/6X6_grid.png) |
 
 ---
 
